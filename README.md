@@ -4,3 +4,6 @@ This program demonstrates how blockchain technology works and how hashes are gen
 
 
 This project is based on what I learned from Ivan on Tech Academy
+
+Blockk.py contains the function.
+main.py contains the program where the transactions are turned into hashes.
